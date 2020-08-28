@@ -1,0 +1,23 @@
+{
+  "id": "2024487",
+  "name": "ctrip",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "4266150",
+      "name": "耳机",
+      "font_class": "erji",
+      "unicode": "e711",
+      "unicode_decimal": 59153
+    },
+    {
+      "icon_id": "5360119",
+      "name": "订单",
+      "font_class": "dingdan",
+      "unicode": "e62a",
+      "unicode_decimal": 58922
+    }
+  ]
+}

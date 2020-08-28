@@ -1,0 +1,23 @@
+{
+  "id": "2025156",
+  "name": "abc",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "828534",
+      "name": "电话",
+      "font_class": "dianhua",
+      "unicode": "e74c",
+      "unicode_decimal": 59212
+    },
+    {
+      "icon_id": "14095221",
+      "name": "下载",
+      "font_class": "xiazai",
+      "unicode": "e76d",
+      "unicode_decimal": 59245
+    }
+  ]
+}
